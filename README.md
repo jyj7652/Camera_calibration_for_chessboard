@@ -18,3 +18,7 @@ https://github.com/jyj7652/Camera_calibration_for_chessboard/assets/70854950/22e
 
 https://github.com/jyj7652/Camera_calibration_for_chessboard/assets/70854950/cd000d16-6877-460c-86a0-7368807b3158
 
+* 추가
+  동영상 길이를 짧게 하느라 캡쳐본을 조금 찍어서 왜곡이 조금 남아있지만
+  캡쳐본을 더 늘려서 여러번 찍는다면 왜곡이 더 줄어들 것이다.
+
