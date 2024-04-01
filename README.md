@@ -9,3 +9,6 @@ openCV를 이용해서 camera calibration 구현.
 
 
 ### 영상 캡쳐 예시 및 캘리브레이션 결과
+https://github.com/jyj7652/Camera_calibration_for_chessboard/assets/70854950/22ec1998-b313-4f80-98e0-05b3ffd9d592   
+
+
